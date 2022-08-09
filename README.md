@@ -1,2 +1,2 @@
-# primeiroReposit-rio
+# primeiroRepositorio
 Não é meu primeiro
